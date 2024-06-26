@@ -1,1 +1,1 @@
-# got-4o-assistant
+# gpt-4o-assistant
